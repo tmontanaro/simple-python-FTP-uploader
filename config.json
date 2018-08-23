@@ -1,0 +1,19 @@
+{
+  "configuration":{
+    "directoriesToWatch":[
+      {
+        "localDirPath": "/home/user/temp",
+        "remoteDirPath": "temp1"
+      },
+      {
+        "localDirPath": "/home/user/temp2",
+        "remoteDirPath": "temp2"
+      }
+    ],
+    "synchAtStartup":true,
+    "ftpServerName":"server.domain.com",
+    "ftpUser":"ftp-user",
+    "ftpPass":"ftpPass",
+    "useTLS":true
+  }
+}
