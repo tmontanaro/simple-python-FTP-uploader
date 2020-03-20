@@ -14,6 +14,11 @@
     "ftpServerName":"server.domain.com",
     "ftpUser":"ftp-user",
     "ftpPass":"ftpPass",
-    "useTLS":true
+    "useTLS":true,
+    "workingDir": "/home/teo/Desktop/workingDir",
+    "delayToSend": 20,
+    "startBackupTime": "02:00",
+    "backupDurationInHours": 1,
+    "respectBackupHours": true
   }
 }
