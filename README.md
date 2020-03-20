@@ -1,6 +1,6 @@
 # Simple python FTP uploader
 
-This project implements a simple python script that monitors a folder and, in case of changes, upload the changed file on an FTP folder.
+This project implements a simple python script that monitors a folder and, in case of changes, uploads the changed file on an FTP folder.
 It works also with **Windows XP** with **Python 2.7** (the reason why I created it ...).
 
 It allows, through the configuration file to:
